@@ -1,10 +1,30 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Conika Underwoods
 ==========================================================================================================================================
 
-Junior Frontend Developer | React Developer
+Frontend Developer | React Developer
 -------------------------------------------
 
-I'm a frontend developer trained in Frontend Simplified with hands-on internship experience building responsive web interfaces. I built 10+ screens during my Skinstric AI internship and enjoy turning designs into clean, user-friendly web experiences. I'm continuing to grow my skills in React, JavaScript, API integration, and responsive web development. I'm seeking junior frontend developer opportunities where I can contribute, learn from experienced developers, and build impactful products.
+I'm a Full Stack Developer with a strong foundation in frontend engineering, specializing in building responsive, scalable, and user-centered web applications using modern JavaScript technologies.
+
+Trained through Frontend Simplified, I gained hands-on experience developing interactive applications, including my Skinstric AI internship, where I built 10+ screens and transformed complex UI designs into functional, responsive web experiences.
+
+My technical experience spans both frontend and backend development, including:
+
+Frontend: React.js, JavaScript (ES6+), HTML5, CSS3, responsive design, component-based architecture, and React Router.
+
+Backend & Integration: Node.js, Express.js, RESTful APIs, asynchronous JavaScript, and client-server communication.
+
+Databases & Authentication: Firebase, Firestore, authentication workflows, and database integration.
+
+Development Tools: Git, GitHub, Vite, npm, and deployment workflows.
+
+Application Development: Third-party API integration, Stripe payment integration, reusable components, and dynamic user interfaces.
+
+My approach to software development emphasizes clean, maintainable code, performance, accessibility, and intuitive user experiences. I enjoy solving technical challenges, connecting frontend interfaces with backend services, and building applications that deliver meaningful functionality.
+
+I'm passionate about developing complete web solutions, from polished user interfaces to backend integrations and data-driven functionality.
+
+Open to Frontend Developer, React Developer, JavaScript Developer, and Full Stack Developer opportunities, where I can contribute to innovative products and collaborate with high-performing engineering teams.
 
 * 🌍  I'm based in California, United States
 * ✉️  You can contact me at [cunderwoods23@gmail.com](mailto:cunderwoods23@gmail.com)
